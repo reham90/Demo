@@ -310,7 +310,7 @@ header {
 	padding: 0;
 	display: flex;
 	align-items: baseline;
-	gap:18px;
+	gap:25px;
 }
 
 .search-icon{
@@ -405,7 +405,7 @@ header {
 .big-menu {
 	display: flex;
 	align-items: center;
-    gap:15px;
+    gap:25px;
 	margin: 0;
 	padding: 0;
 
@@ -2335,6 +2335,11 @@ footer {
 @media (max-width: 991px) {
 	body{
 		padding-top: 72px;
+	}
+	.discount{
+		font-size: 14px;
+		width: 30px;
+		height: 30px;
 	}
 	.language{
 		display: none;
