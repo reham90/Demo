@@ -143,7 +143,7 @@ $(".search-btn").click(function(e) {
       {
         scrollTop: 0,
       },
-      1500
+      1000
     );
   });
   $(this).scrollTop() >= 500

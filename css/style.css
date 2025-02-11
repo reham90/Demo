@@ -366,14 +366,14 @@ header {
     padding: 0;
     display: flex;
     justify-content: center;
-    top: 107px;
+    top: 85px;
 	transition: 0.5s;
 	height: 0;
 	visibility: hidden;
 	opacity: 0;
 }
 .fixed-header .search-content{
-	top:85px;
+	top:65px;
 }
 .h-0{
 	height: 0;
@@ -663,7 +663,7 @@ gap:40px;
 }
 
 .img-logo img {
-	width: 100%;
+	width: 70%;
 
 	transition: all 0.3s ease-in-out;
 }
@@ -2816,7 +2816,7 @@ footer {
         width: 100%;
         gap: 5px;
       justify-content: space-between;
-		color: var(--main-color);
+		color: #24156d;
 		transition: 0.5s;
 		font-family: "Tajawal-Bold";
 	}
